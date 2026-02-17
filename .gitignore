@@ -1,0 +1,26 @@
+# VCV Rack Plugin Development
+
+# Build artifacts
+/build/
+
+# IDE files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Compiled objects
+*.o
+*.obj
+*.lo
+*.la
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Dependency directories
+/deps/
+
+# Others
+*.log
+*.tmp
